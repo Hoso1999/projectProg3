@@ -1,0 +1,40 @@
+{
+   "objarr": [
+      {
+         "GrassCreateCount": 40045,
+         "GrassEaterCreateCount": 5496,
+         "PredatorCreateCount": 5957,
+         "GrassEaterDie": 5335,
+         "PredatorDie": 5901,
+         "GrassEaterEat": 5335,
+         "PredatorEat": 5901,
+         "GrassArrayLength": 484,
+         "GrassEaterArrayLength": 83,
+         "PredatorArrayLength": 22
+      },
+      {
+         "GrassCreateCount": 58858,
+         "GrassEaterCreateCount": 11285,
+         "PredatorCreateCount": 8608,
+         "GrassEaterDie": 11124,
+         "PredatorDie": 8552,
+         "GrassEaterEat": 11124,
+         "PredatorEat": 8552,
+         "GrassArrayLength": 239,
+         "GrassEaterArrayLength": 67,
+         "PredatorArrayLength": 14
+      },
+      {
+         "GrassCreateCount": 63509,
+         "GrassEaterCreateCount": 15381,
+         "PredatorCreateCount": 9367,
+         "GrassEaterDie": 15220,
+         "PredatorDie": 9311,
+         "GrassEaterEat": 15220,
+         "PredatorEat": 9311,
+         "GrassArrayLength": 139,
+         "GrassEaterArrayLength": 9,
+         "PredatorArrayLength": 9
+      }
+   ]
+}
